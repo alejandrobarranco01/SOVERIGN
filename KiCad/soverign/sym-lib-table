@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "NUCLEO-G431KB")(type "KiCad")(uri "${KIPRJMOD}/NUCLEO_G431KB/NUCLEO-G431KB.kicad_sym")(options "")(descr ""))
+)

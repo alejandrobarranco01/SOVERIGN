@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "NUCLEO_G431KB")(type "KiCad")(uri "${KIPRJMOD}/NUCLEO_G431KB/NUCLEO_G431KB.pretty")(options "")(descr ""))
+)
