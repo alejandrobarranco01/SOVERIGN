@@ -1,0 +1,12 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "NUCLEO_G431KB")(type "KiCad")(uri "${KIPRJMOD}/NUCLEO_G431KB/NUCLEO_G431KB.pretty")(options "")(descr ""))
+  (lib (name "CC1101")(type "KiCad")(uri "${KIPRJMOD}/CC1101/CC1101.pretty")(options "")(descr ""))
+  (lib (name "SSD1306")(type "KiCad")(uri "${KIPRJMOD}/SSD1306/SSD1306.pretty")(options "")(descr ""))
+  (lib (name "PJ-320")(type "KiCad")(uri "${KIPRJMOD}/PJ-320/PJ-320.pretty")(options "")(descr ""))
+  (lib (name "LM2596")(type "KiCad")(uri "${KIPRJMOD}/LM2596/LM2596.pretty")(options "")(descr ""))
+  (lib (name "XIITIA-ST7796")(type "KiCad")(uri "${KIPRJMOD}/XIITIA-ST7796/XIITIA-ST7796.pretty")(options "")(descr ""))
+  (lib (name "PEC12R")(type "KiCad")(uri "${KIPRJMOD}/PEC12R/PEC12R.pretty")(options "")(descr ""))
+  (lib (name "MCP6021")(type "KiCad")(uri "${KIPRJMOD}/MCP6021/MCP6021.pretty")(options "")(descr ""))
+  (lib (name "Icon")(type "KiCad")(uri "${KIPRJMOD}/Icon.pretty")(options "")(descr ""))
+)
