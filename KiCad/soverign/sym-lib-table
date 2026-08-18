@@ -1,4 +1,12 @@
 (sym_lib_table
   (version 7)
   (lib (name "NUCLEO-G431KB")(type "KiCad")(uri "${KIPRJMOD}/NUCLEO_G431KB/NUCLEO-G431KB.kicad_sym")(options "")(descr ""))
+  (lib (name "CC1101")(type "KiCad")(uri "${KIPRJMOD}/CC1101/CC1101.kicad_sym")(options "")(descr ""))
+  (lib (name "SSD1306")(type "KiCad")(uri "${KIPRJMOD}/SSD1306/SSD1306.kicad_sym")(options "")(descr ""))
+  (lib (name "LM2596")(type "KiCad")(uri "${KIPRJMOD}/LM2596/LM2596.kicad_sym")(options "")(descr ""))
+  (lib (name "XIITIA-ST7796")(type "KiCad")(uri "${KIPRJMOD}/XIITIA-ST7796/XIITIA-ST7796.kicad_sym")(options "")(descr ""))
+  (lib (name "PEC12R")(type "KiCad")(uri "${KIPRJMOD}/PEC12R/PEC12R.kicad_sym")(options "")(descr ""))
+  (lib (name "MCP6021")(type "KiCad")(uri "${KIPRJMOD}/MCP6021/MCP6021.kicad_sym")(options "")(descr ""))
+  (lib (name "PJ-320")(type "KiCad")(uri "${KIPRJMOD}/PJ-320/PJ-320.kicad_sym")(options "")(descr ""))
+  (lib (name "dhc")(type "KiCad")(uri "${KIPRJMOD}/Icon/dhc.kicad_sym")(options "")(descr ""))
 )
